@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Time well spent. Or, Opus iræ &amp; labor benevolentiæ. In eight books. Viz, A compendious retractation for bookmaking, a godly zealous prayer, for peace and salvation a warning piece for England, a lamentable complaint, a patheticall apology, a potent vindication, a paradox, and the authours disaster for bookmaking, with his ship in division ... 11. May. 1643. Whereas Edward Browne ... hath presenteed to the Kings Most Excellent Majesty and the lords and commons in Parliament two petitions wherein is briefly described the miserable condition of this distracted kingdome as well as his own particuler grievances, it is therefore ordered that not onely his desire therein shall be granted, but that his time well spent in print shall be forthwith published ...</title>
+            <author>Browne, Edward.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01810</idno>
+            <idno type="STC">Wing B5107B</idno>
+            <idno type="STC">ESTC R175624</idno>
+            <idno type="EEBO-CITATION">52612053</idno>
+            <idno type="OCLC">ocm 52612053</idno>
+            <idno type="VID">179336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01810)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179336)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2785:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Time well spent. Or, Opus iræ &amp; labor benevolentiæ. In eight books. Viz, A compendious retractation for bookmaking, a godly zealous prayer, for peace and salvation a warning piece for England, a lamentable complaint, a patheticall apology, a potent vindication, a paradox, and the authours disaster for bookmaking, with his ship in division ... 11. May. 1643. Whereas Edward Browne ... hath presenteed to the Kings Most Excellent Majesty and the lords and commons in Parliament two petitions wherein is briefly described the miserable condition of this distracted kingdome as well as his own particuler grievances, it is therefore ordered that not onely his desire therein shall be granted, but that his time well spent in print shall be forthwith published ...</title>
+                  <author>Browne, Edward.</author>
+                  <author>Van Peene, Anne.</author>
+               </titleStmt>
+               <extent>[8] p.  18 cm. </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the yeer, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Incomplete: contains only the title page, a letter from Browne to Anne van Peene, and her reply thereto.</note>
+                  <note>Pages bound out of order.</note>
+                  <note>Reproduction of the original in the Trinity College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Church of England --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179336:1"/>
+            <p>
+               <hi>Time well ſpent. OR,</hi> Opus Irae &amp; Labor Benevolentiae. <hi>In eight Books.</hi> viz.</p>
+            <p>A compendious Retractation for Bookmaking, a godly zealous Prayer, for Peace and Salvation, a Warning Peece for England, a Lamentable Complaint, a Patheticall Apology, a Potent Vindication, a Paradox, and the Authours Diſaster for Bookmaking, with his Ship in Diviſion.</p>
+            <p>Containing many briefe and pleaſant meditations very uſefull for theſe diſtracted times, worthy obſervation and imitation.</p>
+            <p>
+               <hi>Dies Aſcenſionis Domini noſtri &amp; ſalvatoris in Caelis.</hi>
+            </p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>11.</hi> May. <hi>1643.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>Whereas <hi>Edward Browne</hi> ſometimes ſervant to Sir <hi>James Cambell,</hi> Knight and Alderman of London, deceaſed, hath preſenteed to the Kings moſt Excellent Maieſty and the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment two Petitions wherein is briefly deſcribed the miſerable condition of this diſtracted Kingdome as well as his own particuler grievances, it is therefore ordered that not onely his deſire therein ſhall be granted, but that <hi>His time well ſpent</hi> in Print ſhall be forthwith publiſted.</p>
+                  <closer>
+                     <signed>per Clericum Duiman ad Jgnoramum.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>London, Printed in the yeer, 1643.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:179336:2"/>
+            <pb facs="tcp:179336:2"/>
+            <p>The firſt of theſe is ſufficiently anſwered in my Diſaſter, Paradox, and Vindication, and the latter is likewiſe anſwered in my Addition to thoſe in my Apologie.</p>
+            <p>But therein I did forget to give his Worſhip hearty thanks, for his kind reſpects towards me &amp; now I could wiſh that I had followed his grave adviſe, then ſhould I have neglected the conſures of men upon me and my Books, and ſo have been victorous by Patience, which is much better then ſtrife and contention: For I do humbly acknowledge that I have overwatched or overwrought my ſelf in making Books, and therefore thinke it is now beſt to ſurceaſe and leave; yet my minde is very much troubled which is the greateſt miſery that can happen to a man in this world, as the wiſeman hath it in <hi>Pro.</hi> 18.14. <hi>The ſpirit of a man may bear bodily infirmities, but a wounded ſpirit who can bear?</hi> There<g ref="char:EOLhyphen"/>fore to eaſe my minde of this intollerable burden I have lately ſuper<g ref="char:EOLhyphen"/>viſed my works, and therein finde ſome litterall faults eſcaped in the Preſſe, by reaſon of my haſte to have them printed: But all the wit I have cannot finde ſo many ſubſtantiall errors, as to make it the work of the devill, as ſome affirme, except that be one in my bitter Pill, where I do affirme that my ſuppoſed grand Adverſary hath vilyfied as honeſt a man as himſelf, but pray let my modeſty excuſe my ſmooth language towards him, for though he doth, I do not delight in railing terms, becauſe I know that in me, that is in my fleſh dwelleth no good thing, that I am not able of my ſelf to thinke a good thought, that I am the greateſt of all ſinners: and therefore have nothing whereof to boaſt, but my infirmities, and thoſe I glory in for ſure I thinke it is the finger of God that by my fooliſhneſſe hath ſtruck to the heart root ſome guilty perſons hypocritically and maliciouſly affected: and there<g ref="char:EOLhyphen"/>fore to thoſe that ſay my Bookes are like a rope of ſand which will not hold together, but crumble and moulder into inconſiſtent, uſeleſſe, and unprofitable things, I affirme and declare, that my Heavenly and Divine Ejaculations, and my Morall Satyricall Fancies are ſo farre un<g ref="char:EOLhyphen"/>like that ſimile, that they are as ſtrong as a chaine of Iron, as true as Steele, and as precious as Gold. For the ground of the firſt worke is apparent in the Epiſtle to the Reader; and how firmly at hangs there<g ref="char:EOLhyphen"/>on all men may judge. And if any new inſpired Teacher, with aſſi<g ref="char:EOLhyphen"/>ſtance of the moſt Orthodox Divines in this Kingdome dare ſet pen to paper againſt my Angry Labours of good will to ſatisfle a troubled minde, which ſpring from the two former Letters, and ſome oppro<g ref="char:EOLhyphen"/>brious
+<pb facs="tcp:179336:3"/>ſpeeches of any malignant parties. I have already by the aſſi<g ref="char:EOLhyphen"/>ſtance of the Almighty on theſe my weake endeavours, made it mani<g ref="char:EOLhyphen"/>feſt in the view of all men, in my Diſaſter, Paradox, &amp;c. that as the Hydrean heads of the Hypocrite began to appeare in my view, ſo ac<g ref="char:EOLhyphen"/>cording to my skill I have cut them off with the two-edged ſword of the Spirit, the Word of God, and Reaſon, which I hope is ſo potent that all my malicious adverſaries are not able to breake one link thereof with the ſaid inſtrument; though I muſt acknowledge they may abuſe me with their <hi>Militia,</hi> which they have made <hi>Malitia,</hi> as ſome have done to divers others of farre better worth then I am for ſmaller matters. And therefore to expend my money in printing my owne fancies, though never ſo good, I will not for all that their malice can doe unto me, much leſſe will I trouble my ſelfe for what they may falſly ſay of me.</p>
+            <p>And I doe once more chalenge great <hi>Goliah</hi> and the Philiſtines to defie me with any propoſitions againſt Monarchie and Epiſcopacie, as it is eſtabliſhed in this kingdome: let them if they dare put forth their knotty Riddles, and tie their Foxes tales one to another, with all the craft and cunning they can, and I hope with <hi>David</hi> to ſticke a ſtone in the forehead of great <hi>Goliah,</hi> which I ſhall finde in the brooke of Gods word and other little Rivers, and with the helpe of my Fathers Heifer I truſt to untie, breake, and plow up the hard Rockes in their fraudu<g ref="char:EOLhyphen"/>lent Riddles, that it ſhall be eaven and plaine ground, and ſet ſuch fire<g ref="char:EOLhyphen"/>brands betweene their Foxes tales that ſhall burne and conſume their ſeeming corne to aſhes. For it grieves my very ſoule to ſee and heare rare men abuſed and contemned, but ſuch malignant <hi>VVoodcockes</hi> as <hi>Peters</hi> and other New England Apoſtles, applauded to the very Hea<g ref="char:EOLhyphen"/>vens. And certainly if they bee ſuffered to continue long they will bring miſerie, <hi>Calamytie,</hi> and deſtruction upon us all. For thus I heard one ſay in his Pulpit yeſterday, That they are no people which have not God among them: which cannot be, for God is everywhere by his Omnipreſence and Providence, though it is true his particular ſoule ſaving preſence is onely with his Saints. But hereby this fellow and divers others of his garbe would inferre, That all the wicked muſt utterly be deſtroyed from the face of the earth, which is very falſe and pernicious doctrine; for God ſet a marke upon <hi>Cain,</hi> leſt any man fin<g ref="char:EOLhyphen"/>ding him ſhould kill him. And Chriſt ſaith expreſly, the Tares muſt grow with the Wheat untill the Harveſt. But envie, malice, treaſon, <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:179336:1"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>MAſter <hi>Walmeſley</hi> and Miſtris <hi>Vanpaine,</hi> of all Sir <hi>Iames</hi> his kindred <hi>I</hi> did thinke you had beene the moſt truly religious, and therefore was bold to preſent unto each of you a Booke, which <hi>I</hi> thought you would kindly accept of becauſe it was of my compoſing, who was a poore ſervant when you dwelt with my maſter, rather then for any worth in the thing it ſelfe: but it ſeemes my expectation therein was fruſtrated, for in ſtead of commending my expence of ſpare time in ſuch workes, <hi>I</hi> underſtand you have vilified the ſame. Therefore becauſe you are ſo godly iudicious, <hi>I</hi> would entreat you to peruſe this fruit of my labour likewiſe, and certifie my faults therein with a pen, and then ſend them unto me by ſome Por<g ref="char:EOLhyphen"/>ter, whoſe paines <hi>I</hi> will requite, and <hi>I</hi> ſhall eſteeme it a fa<g ref="char:EOLhyphen"/>vour ſhewed to</p>
+                  <closer>
+                     <signed>
+                        <hi>Your poore ſervant,</hi> Edw: Browne.</signed>
+                     <date>4. Aug. 1643.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>MAſter <hi>Browne,</hi> I have peruſed your Bookes, and I finde them uſeleſſe for me. I finde in them light with dark<g ref="char:EOLhyphen"/>neſſe, holy things and vaine unprofitable things mixed, which are altogether inconſiſtent: and I am ſure if you will not look beyond the Moone, but fixe your eies a little, there you may finde there a dead flie which makes your bookes of ointment unſavourie, if there were no other errours in your Booke, the which there are many: but you muſt not expect that I will take upon me to nominate the particular errors in your books
+<pb facs="tcp:179336:3"/>for then I ſhould beginne to be a book-maker as well as you: wherefore I will not now beginne to confute bookes, becauſe God hath not called me unto it. As for that which was good in Sir <hi>Iames Cambel</hi> my deare deceaſed Vncle, I ſuppoſe I know as well as your ſelfe, and therefore I need not your book to teach me the knowledge of it: but if you will ſend me one of his pictures which you cauſed to be drawne upon a boord the bearer hereof ſhall content you for it. And here accor<g ref="char:EOLhyphen"/>ding unto your deſire I have ſent you your two bookes, as alſo a booke of yours which my brorher <hi>Walmeſley</hi> intreated me to ſend you: and thus I reſt, onely adviſing you as a friend that you would ceaſe to make more bookes unill you be inabled to make ſuch as may be for the glorie of God, and edifying of his Church, leſt at length you bee called unto account by the great God of heaven and earth, for miſ-ſpending of your pre<g ref="char:EOLhyphen"/>cious time in diſhonoring of him in this way of book-making: and thus deſiring of God that he would by his ſaving and illu<g ref="char:EOLhyphen"/>minating Spirit diſcover unto you the knowledge of Ieſus Chriſt and him crucified for you. And thus I commit you unto the protection of Almightie God, and reſt,</p>
+                  <closer>
+                     <signed>
+                        <hi>Your loving friend,</hi> Anne van Peene.</signed>
+                     <dateline>London, <date>Aug. 11. <hi>Anno</hi> 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:179336:4"/>
+            <p>The ſecond Letter came from my reverend <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, in anſwer to thoſe in my Apologie, thus.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>
+                        <hi>Good Maſter</hi> Browne:</salute>
+                  </opener>
+                  <p>I Muſt deſire you to conſider that my leiſure will nor per<g ref="char:EOLhyphen"/>mit me to reade ſuch large Volumes, and beſide, my eyes cannot maſter ſo ſmall a print, otherwiſe <hi>I</hi> ſhould be glad to give you my furtherance in any courſe that might promote your contentment. I doe not yet well know why you ſent me the copies of theſe Bookes which I had before, niether was I able to reade perfectly halfe of your Letter, which might have acquainted me more fully with your mind: but, by what <hi>I</hi> both ſee and coniecture, I conceive you over<g ref="char:EOLhyphen"/>watcht your buſineſſe, and are too tenderly affected with the cenſures of men upon your Booke, and your ſelfe, not remem<g ref="char:EOLhyphen"/>bring that the beſt victorie is got by neglecting them. <hi>I</hi> am ſorie you put my name to your Teſtimoniall in print, not as aſhamed of it, but as unwilling to have it publique to a thing of no more moment: And for your Petition, my iudgement is, that to preferre it to the King you ſhall doe great wrong both to your Maſter, and the Executors, and your ſelfe; I the rather minde you of it, becauſe <hi>I</hi> would have you confi<g ref="char:EOLhyphen"/>dent, that <hi>I</hi> will alwayes be readie to doe you any good to my power, as fits</p>
+                  <closer>
+                     <signed>
+                        <hi>Your loving friend,</hi> Ri: Holdſworth.</signed>
+                     <dateline>Em: Coll: <date>Ian. 6. 1642.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb facs="tcp:179336:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
